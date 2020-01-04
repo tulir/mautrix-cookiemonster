@@ -17,7 +17,6 @@
     "*://*.facebook.com/*",
     "*://accounts.google.com/*",
     "cookies",
-    "tabs",
     "activeTab"
   ]
 }
