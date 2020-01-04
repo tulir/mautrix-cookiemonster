@@ -18,5 +18,10 @@
     "*://accounts.google.com/*",
     "cookies",
     "activeTab"
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "cookiemonster@maunium.net"
+    }
+  }
 }
