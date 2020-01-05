@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Mautrix Cookie Monster",
+  "homepage": "https://github.com/tulir/mautrix-cookiemonster",
   "version": "0.1.0",
   "description": "Eats cookies from Facebook and Google to make logging into Matrix bridges easier.",
   "icons": {
